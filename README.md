@@ -39,3 +39,5 @@ The task is episodic, and in order to solve the environment, the agent must get 
 ### Instructions
 
 Follow the instructions in `Navigation.ipynb` to train the agent!  
+
+Note, the baseline code for this project as taken from the DRLND repository.
